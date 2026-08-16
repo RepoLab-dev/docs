@@ -1,0 +1,7 @@
+= RepoLab
+
+RepoLab is the product: a SolidStart frontend hosted at https://repolab.dev[].
+
+The first build is a landing, news channel, and adapter catalog. Provider integrations are named placeholders until adapters ship.
+
+Philosophy that is not a news item lives here, not on the GitHub org profile.

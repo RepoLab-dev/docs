@@ -1,0 +1,3 @@
+= 2026-08-15 - Initial docs hub
+
+Thin Antora playbook and ROOT pages so the org has one public docs site from day one.

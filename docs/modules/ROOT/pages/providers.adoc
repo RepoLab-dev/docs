@@ -1,0 +1,5 @@
+= Providers
+
+Adapters are planned for GitHub first, then other git hosts, local working trees, and non-git engines (Mercurial, Jujutsu, Pijul, Subversion, Perforce).
+
+None of those rows are live in the hello-world site. Status on the product page is the source of truth for what is wired.

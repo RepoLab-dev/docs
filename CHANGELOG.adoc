@@ -1,0 +1,5 @@
+= Changelog
+
+== 2026-08-15
+
+* Initial Antora docs hub (Valentus v2) with product, org, and provider placeholders.

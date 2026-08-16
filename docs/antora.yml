@@ -1,0 +1,6 @@
+name: repolabs
+title: RepoLabs Docs
+version: ~
+start_page: index.adoc
+nav:
+  - modules/ROOT/nav.adoc

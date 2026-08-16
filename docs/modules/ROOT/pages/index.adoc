@@ -1,0 +1,34 @@
+= RepoLabs
+:stem: latexmath
+
+RepoLabs is the organization around *RepoLab*, a browser frontend that presents Git hosts, git repositories, and non-git version-control systems through one UI.
+
+This is a wrapper and cockpit. It is not a new version-control engine and does not replace Git, Mercurial, Jujutsu, Pijul, Subversion, or Perforce.
+
+== Names
+
+|===
+| Surface | Name | URL
+
+| Product
+| RepoLab
+| https://repolab.dev[]
+
+| Organization
+| RepoLabs
+| https://repolabs.com[] (intended homepage; GitHub slug `repolab-dev`)
+
+| Docs
+| this hub
+| https://docs.repolab.dev[]
+|===
+
+== In vs out
+
+*In:* unified review/browse UI, provider adapters, migration and metadata tooling that may grow under the Labs suffix.
+
+*Out:* a novel VCS protocol; shell UX (see OpenShellOrg); HCI experiments that are not repository clients (see HCI Nerdz).
+
+== Explore the docs »
+
+xref:repolab.adoc[RepoLab] is the product page. xref:providers.adoc[Providers] lists adapter placeholders.

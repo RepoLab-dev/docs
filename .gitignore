@@ -1,0 +1,17 @@
+*
+!.gitignore
+!package.json
+!pnpm-lock.yaml
+!antora-playbook.yml
+!README.md
+!CHANGELOG.adoc
+!docs/
+!docs/**
+!supplemental-ui/
+!supplemental-ui/**
+!changelog-details/
+!changelog-details/**
+!.github/
+!.github/**
+!.github/workflows/
+!.github/workflows/**
