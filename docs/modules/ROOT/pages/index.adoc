@@ -16,7 +16,7 @@ This is a wrapper and cockpit. It is not a new version-control engine and does n
 
 | Organization
 | RepoLabs
-| https://repolabs.com[] (intended homepage; GitHub slug `repolab-dev`)
+| https://repolabs.dev[] (GitHub org `RepoLab-dev`)
 
 | Docs
 | this hub

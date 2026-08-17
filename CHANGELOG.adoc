@@ -1,5 +1,9 @@
 = Changelog
 
+== 2026-08-17
+
+* Org homepage is `repolabs.dev` (not `.com`). GitHub org login is `RepoLab-dev`.
+
 == 2026-08-15
 
 * Initial Antora docs hub (Valentus v2) with product, org, and provider placeholders.

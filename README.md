@@ -1,6 +1,6 @@
 # RepoLabs docs
 
-Antora hub for [RepoLabs](https://repolabs.com). Product site: [repolab.dev](https://repolab.dev).
+Antora hub for [RepoLabs](https://repolabs.dev). Product site: [repolab.dev](https://repolab.dev).
 
 [Explore the docs »](https://docs.repolab.dev)
 
