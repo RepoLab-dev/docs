@@ -1,0 +1,3 @@
+= 2026-08-18 - Pages HTTPS CNAME
+
+GitHub Pages was serving the `*.github.io` certificate for `https://docs.repolab.dev`, so browsers showed “connection isn’t private.” The Antora artifact had no CNAME file, which blocks Let’s Encrypt issuance. The publish workflow now writes `docs.repolab.dev` into `build/site/CNAME`.

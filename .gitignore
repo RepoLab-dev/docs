@@ -5,6 +5,7 @@
 !antora-playbook.yml
 !README.md
 !CHANGELOG.adoc
+!CNAME
 !docs/
 !docs/**
 !supplemental-ui/

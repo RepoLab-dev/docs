@@ -26,6 +26,8 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
+      - name: Add Pages CNAME
+        run: printf 'docs.repolab.dev\n' > build/site/CNAME
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build/site

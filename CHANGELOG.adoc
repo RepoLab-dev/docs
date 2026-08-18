@@ -1,5 +1,9 @@
 = Changelog
 
+== 2026-08-18
+
+* Publish a `CNAME` in the Pages artifact so GitHub can issue HTTPS for `docs.repolab.dev`. Details: link:changelog-details/2026-08-18 - pages-https-cname.adoc[pages-https-cname].
+
 == 2026-08-17
 
 * Org homepage is `repolabs.dev` (not `.com`). GitHub org login is `RepoLab-dev`.
