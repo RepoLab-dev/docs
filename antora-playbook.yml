@@ -11,6 +11,7 @@ site:
 antora:
   extensions:
     - '@antora/lunr-extension'
+    - '@antora-supplemental/build-stack'
 
 content:
   sources:
