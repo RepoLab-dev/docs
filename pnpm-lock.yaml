@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@antora-supplemental/build-stack':
+        specifier: github:antora-supplemental/build-stack#main
+        version: https://codeload.github.com/antora-supplemental/build-stack/tar.gz/84875b509693847d123c066d815af3269dd3054c(@antora/site-generator@3.1.15)
       '@antora/cli':
         specifier: ^3.1.10
         version: 3.1.15
@@ -19,6 +22,13 @@ importers:
         version: 3.1.15
 
 packages:
+
+  '@antora-supplemental/build-stack@https://codeload.github.com/antora-supplemental/build-stack/tar.gz/84875b509693847d123c066d815af3269dd3054c':
+    resolution: {tarball: https://codeload.github.com/antora-supplemental/build-stack/tar.gz/84875b509693847d123c066d815af3269dd3054c}
+    version: 0.1.2
+    engines: {node: '>=18'}
+    peerDependencies:
+      '@antora/site-generator': '>=3.1.0'
 
   '@antora/asciidoc-loader@3.1.15':
     resolution: {integrity: sha512-MVspbcMPmBgxZms0EjmyC9nlCAWBJfHYSwQCXRZn6T7OujRrLvJFPgz+EROz9XOqh4v76BeqgEuLsUJIZjH3cw==}
@@ -644,6 +654,10 @@ packages:
     resolution: {integrity: sha512-BbETDVWG+VcMUle37k5Fqp//7SDOK2/1+T7X8TD96M3D9G8jK5VLUdQVdVjGi8im7FGkazX7kk5hkU8X4L5Bng==}
 
 snapshots:
+
+  '@antora-supplemental/build-stack@https://codeload.github.com/antora-supplemental/build-stack/tar.gz/84875b509693847d123c066d815af3269dd3054c(@antora/site-generator@3.1.15)':
+    dependencies:
+      '@antora/site-generator': 3.1.15
 
   '@antora/asciidoc-loader@3.1.15':
     dependencies:
