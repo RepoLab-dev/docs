@@ -1,6 +1,10 @@
 site:
   title: RepoLabs Docs
   url: https://docs.repolab.dev
+  robots: |
+    User-agent: *
+    Allow: /
+    Sitemap: https://docs.repolab.dev/sitemap.xml
   start_page: repolabs::index.adoc
   keys:
     header_logo: logo.svg
